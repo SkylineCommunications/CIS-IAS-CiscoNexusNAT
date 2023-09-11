@@ -1,0 +1,105 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Internal", "Internal", "{ACC23EF8-2F7F-40B8-9261-E477A39CF0E9}"
+	ProjectSection(SolutionItems) = preProject
+		Internal\.editorconfig = Internal\.editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{D233827C-6A00-4074-B969-4682A96349AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dlls", "Dlls", "{3CB83E1A-7DAF-4DC0-8B69-F88B1C9F6D19}"
+	ProjectSection(SolutionItems) = preProject
+		Dlls\ABOUT.md = Dlls\ABOUT.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CompanionFiles", "CompanionFiles", "{65628C45-801B-42D0-BD63-4AC02E876459}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Skyline DataMiner", "Skyline DataMiner", "{8CB09F5E-D21F-4503-B5FA-1F29BC80C984}"
+	ProjectSection(SolutionItems) = preProject
+		CompanionFiles\Skyline DataMiner\AboutThisFolder.md = CompanionFiles\Skyline DataMiner\AboutThisFolder.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{627B77CE-4CC7-4691-8A45-C817C8207BA6}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\ABOUT.md = Documentation\ABOUT.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F8938D60-51A0-4880-9CFC-19C66379BB5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Analysis", "Code Analysis", "{4F8C50BB-4A42-4A0C-9BEB-D4178FFB9059}"
+	ProjectSection(SolutionItems) = preProject
+		Internal\Code Analysis\qaction-debug.ruleset = Internal\Code Analysis\qaction-debug.ruleset
+		Internal\Code Analysis\qaction-release.ruleset = Internal\Code Analysis\qaction-release.ruleset
+		Internal\Code Analysis\stylecop.json = Internal\Code Analysis\stylecop.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CIS-IAS-CiscoNexusNAT", "CIS-IAS-CiscoNexusNAT", "{DB5C120A-0B07-4327-B087-1638E67D5823}"
+	ProjectSection(SolutionItems) = preProject
+		CIS-IAS-CiscoNexusEgressMulticastNAT.xml = CIS-IAS-CiscoNexusEgressMulticastNAT.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Actions", "Actions", "{1DC727B2-BAE3-4F33-AC45-7592C7230BE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CIS-IAS-CiscoNexusNAT_1", "CIS-IAS-CiscoNexusNAT_1\CIS-IAS-CiscoNexusNAT_1.csproj", "{A51A5056-49F1-40D3-AC39-1140242325AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CIS-IAS-CiscoNexusUnicastMulticastNat", "CIS-IAS-CiscoNexusUnicastMulticastNat", "{C86229FD-D8DE-4C73-AB9C-E5C4D779DDA5}"
+	ProjectSection(SolutionItems) = preProject
+		CIS-IAS-CiscoNexusUnicastMulticastNat.xml = CIS-IAS-CiscoNexusUnicastMulticastNat.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Actions", "Actions", "{7C833265-EE34-4C07-9E75-FBC9170C66CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CIS-IAS-CiscoNexusUnicastMulticastNat_1", "CIS-IAS-CiscoNexusUnicastMulticastNat_1\CIS-IAS-CiscoNexusUnicastMulticastNat_1.csproj", "{4D2B62F9-569D-4F75-A4F3-42456C4B9E22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CIS-IAS-CiscoNexusMulticastUnicastNat", "CIS-IAS-CiscoNexusMulticastUnicastNat", "{D58181AF-2A03-46D3-B94C-BA7217E436EA}"
+	ProjectSection(SolutionItems) = preProject
+		CIS-IAS-CiscoNexusMulticastUnicastNat.xml = CIS-IAS-CiscoNexusMulticastUnicastNat.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Actions", "Actions", "{47E301D0-4EF4-4539-860C-BEF09C43FA29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CIS-IAS-CiscoNexusMulticastUnicastNat_1", "CIS-IAS-CiscoNexusMulticastUnicastNat_1\CIS-IAS-CiscoNexusMulticastUnicastNat_1.csproj", "{7BDB2788-3F26-4C4B-AA30-FD28E779CD70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51A5056-49F1-40D3-AC39-1140242325AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51A5056-49F1-40D3-AC39-1140242325AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51A5056-49F1-40D3-AC39-1140242325AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51A5056-49F1-40D3-AC39-1140242325AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2B62F9-569D-4F75-A4F3-42456C4B9E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2B62F9-569D-4F75-A4F3-42456C4B9E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2B62F9-569D-4F75-A4F3-42456C4B9E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2B62F9-569D-4F75-A4F3-42456C4B9E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BDB2788-3F26-4C4B-AA30-FD28E779CD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDB2788-3F26-4C4B-AA30-FD28E779CD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDB2788-3F26-4C4B-AA30-FD28E779CD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDB2788-3F26-4C4B-AA30-FD28E779CD70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8CB09F5E-D21F-4503-B5FA-1F29BC80C984} = {65628C45-801B-42D0-BD63-4AC02E876459}
+		{4F8C50BB-4A42-4A0C-9BEB-D4178FFB9059} = {ACC23EF8-2F7F-40B8-9261-E477A39CF0E9}
+		{DB5C120A-0B07-4327-B087-1638E67D5823} = {D233827C-6A00-4074-B969-4682A96349AF}
+		{1DC727B2-BAE3-4F33-AC45-7592C7230BE9} = {DB5C120A-0B07-4327-B087-1638E67D5823}
+		{A51A5056-49F1-40D3-AC39-1140242325AA} = {1DC727B2-BAE3-4F33-AC45-7592C7230BE9}
+		{C86229FD-D8DE-4C73-AB9C-E5C4D779DDA5} = {D233827C-6A00-4074-B969-4682A96349AF}
+		{7C833265-EE34-4C07-9E75-FBC9170C66CB} = {C86229FD-D8DE-4C73-AB9C-E5C4D779DDA5}
+		{4D2B62F9-569D-4F75-A4F3-42456C4B9E22} = {7C833265-EE34-4C07-9E75-FBC9170C66CB}
+		{D58181AF-2A03-46D3-B94C-BA7217E436EA} = {D233827C-6A00-4074-B969-4682A96349AF}
+		{47E301D0-4EF4-4539-860C-BEF09C43FA29} = {D58181AF-2A03-46D3-B94C-BA7217E436EA}
+		{7BDB2788-3F26-4C4B-AA30-FD28E779CD70} = {47E301D0-4EF4-4539-860C-BEF09C43FA29}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A74282EB-62C8-4117-83E1-5C469CD779F5}
+	EndGlobalSection
+EndGlobal
